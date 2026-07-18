@@ -1,5 +1,5 @@
 {
-  src: "https://drive.google.com/file/d/1yYga7UA-lELrUiYb95ya67njINEiXg5L/view?usp=sharing",        // ← 写真ファイルの場所
+  src: "https://photos.app.goo.gl/4tWWTpikwD6iMYpN9",        // ← 写真ファイルの場所
   caption: "人工授粉",   // ← 写真の説明
   category: "care",                   // ← カテゴリ（下の表から選ぶ）
 },
