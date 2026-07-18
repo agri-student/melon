@@ -36,6 +36,16 @@ const GALLERY_PHOTOS = [
     category: "care",
   },
   {
+    src: "images/tuihi01.JPG",
+    caption: "有機肥料を施肥、おいしくなってくれ",
+    category: "care",
+  },
+　 {
+    src: "images/yuuin01.jpg",
+    caption: "もやい結び、難しい...",
+    category: "care",
+  },
+  {
     src: "images/zyuhun01",
     caption: "黄色い花が咲きました。受粉のお手伝い",
     category: "grow",
