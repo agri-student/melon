@@ -16,13 +16,13 @@
 
 const GALLERY_PHOTOS = [
   {
-    src: "images/placeholder-seed.svg",
-    caption: "小さな種を、ひとつぶずつ丁寧にまきました",
+    src: "images/ueru01.jpg",
+    caption: "深く植えすぎないよう注意",
     category: "seed",
   },
   {
-    src: "images/placeholder-sprout.svg",
-    caption: "芽が出た！みんなで発芽を観察",
+    src: "images/ueru02.jpg",
+    caption: "すくすく育て",
     category: "seed",
   },
   {
