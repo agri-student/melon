@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" role="img" aria-label="花が咲いた。受粉のお手伝い">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fef6de"/><stop offset="1" stop-color="#f6e6b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <circle cx="680" cy="110" r="46" fill="#ffe08a"/><g stroke="#ffe08a" stroke-width="6" stroke-linecap="round">
+  <line x1="680" y1="30" x2="680" y2="10"/><line x1="756" y1="110" x2="778" y2="110"/><line x1="734" y1="56" x2="750" y2="40"/></g><rect x="0" y="440" width="800" height="120" fill="#7a5a3c"/><rect x="0" y="440" width="800" height="16" fill="#8a6a48"/><path d="M 60 520 Q 200 480 360 520 T 740 510" fill="none" stroke="#4e8b3a" stroke-width="8"/><path d="M 90 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 210 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 330 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 450 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 570 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 690 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><g transform="translate(360,430)"><ellipse cx="28" cy="0" rx="18" ry="26" fill="#ffd447" transform="rotate(0 0 0)"/><ellipse cx="8.669438765596677" cy="26.62406489418116" rx="18" ry="26" fill="#ffd447" transform="rotate(72 0 0)"/><ellipse cx="-22.63148796354068" cy="16.486835735098268" rx="18" ry="26" fill="#ffd447" transform="rotate(144 0 0)"/><ellipse cx="-22.683888699471982" cy="-16.414663976760757" rx="18" ry="26" fill="#ffd447" transform="rotate(216 0 0)"/><ellipse cx="8.58458910313477" cy="-26.651544606839202" rx="18" ry="26" fill="#ffd447" transform="rotate(288 0 0)"/><circle r="16" fill="#f0a860"/></g><g transform="translate(560,450) scale(1.4)" fill="#e08a3a">
+    <circle cx="0" cy="-40" r="20"/>
+    <path d="M -26 40 Q 0 -14 26 40 Z"/></g>
+  <g font-family="'M PLUS Rounded 1c','Hiragino Maru Gothic ProN',sans-serif">
+    <rect x="24" y="490" width="752" height="46" rx="14" fill="rgba(255,255,255,.82)"/>
+    <text x="46" y="520" font-size="24" font-weight="800" fill="#2f5e2f">花が咲いた。受粉のお手伝い</text>
+  </g>
+  <text x="760" y="46" text-anchor="end" font-size="15" fill="rgba(47,94,47,.6)" font-family="sans-serif">サンプル写真 4:3</text>
+</svg>

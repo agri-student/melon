@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>メロン日記 | 生徒たちのメロン栽培フォトギャラリー</title>
+  <meta name="description" content="生徒たちがメロンを育てる日々の様子を集めたフォトギャラリー。メロンの豆知識や栽培の記録もまるごとメロン一色でお届けします。" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=M+PLUS+Rounded+1c:wght@400;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8D%88%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+  <!-- ===== ヘッダー ===== -->
+  <header class="site-header" id="top">
+    <div class="header-inner">
+      <a href="#top" class="brand">
+        <span class="brand-emoji">🍈</span>
+        <span class="brand-text">メロン日記</span>
+      </a>
+      <nav class="nav" aria-label="メインナビゲーション">
+        <button class="nav-toggle" aria-expanded="false" aria-controls="nav-list" aria-label="メニューを開く">
+          <span></span><span></span><span></span>
+        </button>
+        <ul class="nav-list" id="nav-list">
+          <li><a href="#about">メロンって？</a></li>
+          <li><a href="#gallery">フォトギャラリー</a></li>
+          <li><a href="#calendar">栽培カレンダー</a></li>
+          <li><a href="#facts">豆知識</a></li>
+          <li><a href="#voice">生徒の声</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== ヒーロー ===== -->
+  <section class="hero">
+    <div class="hero-pattern" aria-hidden="true"></div>
+    <div class="hero-content">
+      <p class="hero-kicker">🍈 まるごとメロンなホームページ 🍈</p>
+      <h1 class="hero-title">生徒たちが育てる<br /><span>メロン</span>の物語</h1>
+      <p class="hero-lead">
+        種まきから収穫まで。汗と笑顔いっぱいの栽培の日々を、<br class="pc-only" />
+        たくさんの写真とともにお届けします。
+      </p>
+      <div class="hero-actions">
+        <a href="#gallery" class="btn btn-primary">📸 ギャラリーを見る</a>
+        <a href="#about" class="btn btn-ghost">メロンを知る</a>
+      </div>
+    </div>
+    <div class="hero-wave" aria-hidden="true">
+      <svg viewBox="0 0 1440 120" preserveAspectRatio="none"><path d="M0,64L60,58.7C120,53,240,43,360,48C480,53,600,75,720,80C840,85,960,75,1080,64C1200,53,1320,43,1380,37.3L1440,32L1440,120L0,120Z"></path></svg>
+    </div>
+  </section>
+
+  <main>
+    <!-- ===== メロンって？ ===== -->
+    <section class="section" id="about">
+      <div class="container">
+        <div class="section-head">
+          <span class="section-badge">ABOUT MELON</span>
+          <h2 class="section-title">メロンって、どんな果物？</h2>
+          <p class="section-sub">甘くてジューシー。実はウリ科の仲間なんです。</p>
+        </div>
+        <div class="about-grid">
+          <div class="about-card">
+            <div class="about-icon">🌱</div>
+            <h3>ウリ科の一年草</h3>
+            <p>メロンはキュウリやスイカと同じウリ科の仲間。つるを伸ばして育ち、花を咲かせて実をつけます。</p>
+          </div>
+          <div class="about-card">
+            <div class="about-icon">🕸️</div>
+            <h3>網目の秘密</h3>
+            <p>あの美しい網目は、実が大きくなるときに表面がひび割れ、それをふさごうとしてできた"かさぶた"なんです。</p>
+          </div>
+          <div class="about-card">
+            <div class="about-icon">☀️</div>
+            <h3>太陽と水が大好き</h3>
+            <p>あたたかい気候と、たっぷりの日光が甘さのもと。水やりの加減が味を大きく左右します。</p>
+          </div>
+          <div class="about-card">
+            <div class="about-icon">🍯</div>
+            <h3>とろける甘さ</h3>
+            <p>完熟したメロンの糖度は15度以上になることも。追熟させると、香りと甘さがぐっと増します。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== フォトギャラリー ===== -->
+    <section class="section section-alt" id="gallery">
+      <div class="container">
+        <div class="section-head">
+          <span class="section-badge">PHOTO GALLERY</span>
+          <h2 class="section-title">生徒たちのメロン栽培フォト</h2>
+          <p class="section-sub">写真をタップすると大きく表示されます。</p>
+        </div>
+
+        <div class="filter-bar" role="tablist" aria-label="写真の絞り込み">
+          <button class="filter-btn is-active" data-filter="all" role="tab" aria-selected="true">すべて</button>
+          <button class="filter-btn" data-filter="seed" role="tab" aria-selected="false">種まき・苗</button>
+          <button class="filter-btn" data-filter="care" role="tab" aria-selected="false">日々のお世話</button>
+          <button class="filter-btn" data-filter="grow" role="tab" aria-selected="false">実りの様子</button>
+          <button class="filter-btn" data-filter="harvest" role="tab" aria-selected="false">収穫・試食</button>
+        </div>
+
+        <div class="gallery" id="gallery-grid">
+          <!-- JavaScriptで写真を差し込みます -->
+        </div>
+
+        <p class="gallery-hint">
+          📷 写真を追加するには <code>images/</code> フォルダに画像を入れ、<code>js/gallery-data.js</code> に1行足すだけ！
+          くわしくは <code>README.md</code> をご覧ください。
+        </p>
+      </div>
+    </section>
+
+    <!-- ===== 栽培カレンダー ===== -->
+    <section class="section" id="calendar">
+      <div class="container">
+        <div class="section-head">
+          <span class="section-badge">GROWING CALENDAR</span>
+          <h2 class="section-title">メロン栽培カレンダー</h2>
+          <p class="section-sub">種まきから収穫まで、およそ4〜5か月の道のりです。</p>
+        </div>
+        <ol class="timeline">
+          <li class="timeline-item">
+            <div class="timeline-marker">🌰</div>
+            <div class="timeline-body">
+              <span class="timeline-month">4月</span>
+              <h3>種まき</h3>
+              <p>ポットに種をまいて発芽を待ちます。あたたかい場所で大切に。芽が出た瞬間はみんな大よろこび。</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-marker">🌱</div>
+            <div class="timeline-body">
+              <span class="timeline-month">5月</span>
+              <h3>植えつけ・整枝</h3>
+              <p>畑やハウスへ植えかえ。元気なつるを選んで伸ばし、わき芽を丁寧に摘みます。</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-marker">🌼</div>
+            <div class="timeline-body">
+              <span class="timeline-month">6月</span>
+              <h3>受粉</h3>
+              <p>花が咲いたら受粉のお手伝い。筆を使って人工受粉することも。実がなるかどきどきの瞬間。</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-marker">🍈</div>
+            <div class="timeline-body">
+              <span class="timeline-month">7月</span>
+              <h3>玉つり・肥大</h3>
+              <p>実がどんどん大きく。ネットをかけて支え、糖度がのるよう水やりを調整します。</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-marker">🎉</div>
+            <div class="timeline-body">
+              <span class="timeline-month">8月</span>
+              <h3>収穫・試食</h3>
+              <p>いよいよ収穫！香りが立ち、ヘタがひび割れたら食べごろのサイン。みんなで味わう最高の瞬間です。</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ===== 豆知識 ===== -->
+    <section class="section section-alt" id="facts">
+      <div class="container">
+        <div class="section-head">
+          <span class="section-badge">MELON TRIVIA</span>
+          <h2 class="section-title">メロンの豆知識</h2>
+          <p class="section-sub">知ればもっと好きになる、メロンのひみつ。</p>
+        </div>
+        <div class="facts-grid">
+          <div class="fact-card">
+            <span class="fact-num">01</span>
+            <h3>網なし・網ありメロン</h3>
+            <p>プリンスメロンのように表面がつるっとした「ノーネット系」と、マスクメロンのような「ネット系」があります。</p>
+          </div>
+          <div class="fact-card">
+            <span class="fact-num">02</span>
+            <h3>「マスク」の意味</h3>
+            <p>マスクメロンの"マスク"は、英語で麝香（じゃこう＝musk）のこと。豊かな香りに由来しています。</p>
+          </div>
+          <div class="fact-card">
+            <span class="fact-num">03</span>
+            <h3>食べごろの見分け方</h3>
+            <p>おしり（花のあと）を軽く押してやわらかく、甘い香りがしてきたら食べごろ。冷やしすぎると甘みを感じにくくなります。</p>
+          </div>
+          <div class="fact-card">
+            <span class="fact-num">04</span>
+            <h3>栄養もたっぷり</h3>
+            <p>カリウムやビタミンC、β-カロテンを含みます。赤肉メロンはβ-カロテンが特に豊富です。</p>
+          </div>
+          <div class="fact-card">
+            <span class="fact-num">05</span>
+            <h3>T字のツルが高級の証</h3>
+            <p>マスクメロンはヘタがT字に残るように収穫されます。美しいT字は丁寧に育てられた証しです。</p>
+          </div>
+          <div class="fact-card">
+            <span class="fact-num">06</span>
+            <h3>果物？野菜？</h3>
+            <p>農林水産省の分類では畑で育つメロンは「果実的野菜」。デザートとして食べるので果物として親しまれています。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 生徒の声 ===== -->
+    <section class="section" id="voice">
+      <div class="container">
+        <div class="section-head">
+          <span class="section-badge">STUDENTS' VOICE</span>
+          <h2 class="section-title">育てた生徒たちの声</h2>
+          <p class="section-sub">手をかけたぶんだけ、思い出になりました。</p>
+        </div>
+        <div class="voice-grid">
+          <figure class="voice-card">
+            <blockquote>毎朝の水やりが日課になりました。実が大きくなるたびに、育てているって実感できてうれしかったです。</blockquote>
+            <figcaption>🍈 栽培1年目の生徒</figcaption>
+          </figure>
+          <figure class="voice-card">
+            <blockquote>受粉がうまくいかなくて悩んだけど、先生に教わって挑戦したら実がなった時は本当に感動しました。</blockquote>
+            <figcaption>🍈 生き物係の生徒</figcaption>
+          </figure>
+          <figure class="voice-card">
+            <blockquote>自分たちで育てたメロンはお店のより甘く感じました。みんなで食べた味は一生忘れません。</blockquote>
+            <figcaption>🍈 収穫を担当した生徒</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== フッター ===== -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <span class="brand-emoji">🍈</span>
+        <span class="brand-text">メロン日記</span>
+      </div>
+      <p class="footer-text">生徒たちのメロン栽培を記録するフォトギャラリーサイト</p>
+      <p class="footer-copy">© <span id="year"></span> メロン日記 — まるごとメロン一色でお届け 🍈</p>
+    </div>
+  </footer>
+
+  <!-- ===== ライトボックス ===== -->
+  <div class="lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-modal="true" aria-label="写真の拡大表示">
+    <button class="lightbox-close" id="lb-close" aria-label="閉じる">✕</button>
+    <button class="lightbox-nav lightbox-prev" id="lb-prev" aria-label="前の写真">‹</button>
+    <figure class="lightbox-figure">
+      <img src="" alt="" id="lb-img" />
+      <figcaption id="lb-caption"></figcaption>
+    </figure>
+    <button class="lightbox-nav lightbox-next" id="lb-next" aria-label="次の写真">›</button>
+  </div>
+
+  <a href="#top" class="to-top" aria-label="ページの先頭へ戻る">↑</a>
+
+  <script src="js/gallery-data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

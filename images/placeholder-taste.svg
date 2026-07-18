@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" role="img" aria-label="自分たちのメロン、いただきます！">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1de"/><stop offset="1" stop-color="#ffd9a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <g transform="translate(400,300)"><path d="M -150 0 A 150 150 0 0 1 150 0 Z" fill="#7fbf5a"/><path d="M -132 0 A 132 132 0 0 1 132 0 Z" fill="#f4b26a"/><path d="M -120 0 A 120 120 0 0 1 120 0 Z" fill="#f7c78a"/><ellipse cx="17.000153331807866" cy="-86.45510041883685" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="-83.46173176860069" cy="-32.165447303763656" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="4.854618930702159" cy="-35.799164807264134" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="38.96801302824986" cy="-60.40268636313166" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="78.23580543825955" cy="-47.75550923869084" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="-52.24216286878706" cy="-59.40679938203956" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="87.14347675719867" cy="-76.09639115549909" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="11.45729506970855" cy="-88.92256070724589" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="-8.21659124720027" cy="-36.28561725233573" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="-49.69580848740249" cy="-85.3372591236074" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="-18.73708178462188" cy="-86.6860679258362" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="-67.77960343134184" cy="-26.268726411051027" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="29.482618918293866" cy="-89.08669692301339" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="79.21006639406423" cy="-74.53420706314024" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="61.334478634650054" cy="-69.562321320634" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="27.992515446409328" cy="-56.29582894688166" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="-80.18525687263968" cy="-43.402804183214755" rx="5" ry="8" fill="#e8d6a0"/><ellipse cx="56.12967809141227" cy="-58.32148863389972" rx="5" ry="8" fill="#e8d6a0"/></g><g transform="translate(250,470) scale(1.3)" fill="#e08a3a">
+    <circle cx="0" cy="-40" r="20"/>
+    <path d="M -26 40 Q 0 -14 26 40 Z"/></g><g transform="translate(400,470) scale(1.3)" fill="#3f7a34">
+    <circle cx="0" cy="-40" r="20"/>
+    <path d="M -26 40 Q 0 -14 26 40 Z"/></g><g transform="translate(550,470) scale(1.3)" fill="#c94f3a">
+    <circle cx="0" cy="-40" r="20"/>
+    <path d="M -26 40 Q 0 -14 26 40 Z"/></g>
+  <g font-family="'M PLUS Rounded 1c','Hiragino Maru Gothic ProN',sans-serif">
+    <rect x="24" y="490" width="752" height="46" rx="14" fill="rgba(255,255,255,.82)"/>
+    <text x="46" y="520" font-size="24" font-weight="800" fill="#2f5e2f">自分たちのメロン、いただきます！</text>
+  </g>
+  <text x="760" y="46" text-anchor="end" font-size="15" fill="rgba(47,94,47,.6)" font-family="sans-serif">サンプル写真 4:3</text>
+</svg>

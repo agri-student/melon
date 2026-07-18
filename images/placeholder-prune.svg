@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620" role="img" aria-label="わき芽を摘んで整える">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf6d6"/><stop offset="1" stop-color="#c7e69c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="620" fill="url(#bg)"/>
+  <circle cx="680" cy="110" r="46" fill="#ffe08a"/><g stroke="#ffe08a" stroke-width="6" stroke-linecap="round">
+  <line x1="680" y1="30" x2="680" y2="10"/><line x1="756" y1="110" x2="778" y2="110"/><line x1="734" y1="56" x2="750" y2="40"/></g><rect x="0" y="500" width="800" height="120" fill="#7a5a3c"/><rect x="0" y="500" width="800" height="16" fill="#8a6a48"/><path d="M 60 520 Q 200 480 360 520 T 740 510" fill="none" stroke="#4e8b3a" stroke-width="8"/><path d="M 90 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 210 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 330 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 450 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 570 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 690 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><g transform="translate(400,470) scale(2)" fill="#3f7a34">
+    <circle cx="0" cy="-40" r="20"/>
+    <path d="M -26 40 Q 0 -14 26 40 Z"/></g><ellipse cx="600" cy="470" rx="52" ry="47.84" fill="#bcd98a"/><path d="M 548 434 Q 600 420 652 434" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 548 446 Q 600 432 652 446" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 548 458 Q 600 444 652 458" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 548 470 Q 600 456 652 470" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 548 482 Q 600 468 652 482" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 548 494 Q 600 480 652 494" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 548 506 Q 600 492 652 506" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 558 418 Q 572 470 558 522" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 572 418 Q 586 470 572 522" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 586 418 Q 600 470 586 522" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 600 418 Q 614 470 600 522" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 614 418 Q 628 470 614 522" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 628 418 Q 642 470 628 522" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 642 418 Q 656 470 642 522" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 600 418 q -6 -22 6 -34" fill="none" stroke="#5a7a35" stroke-width="7" stroke-linecap="round"/>
+  <g font-family="'M PLUS Rounded 1c','Hiragino Maru Gothic ProN',sans-serif">
+    <rect x="24" y="550" width="752" height="46" rx="14" fill="rgba(255,255,255,.82)"/>
+    <text x="46" y="580" font-size="24" font-weight="800" fill="#2f5e2f">わき芽を摘んで整える</text>
+  </g>
+  <text x="760" y="46" text-anchor="end" font-size="15" fill="rgba(47,94,47,.6)" font-family="sans-serif">サンプル写真 4:3</text>
+</svg>
