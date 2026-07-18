@@ -1,5 +1,14 @@
-{
-  src: "https://photos.app.goo.gl/YaFteyKSwPGXCRq6A",        // ← 写真ファイルの場所
-  caption: "人工授粉",   // ← 写真の説明
-  category: "care",                   // ← カテゴリ（下の表から選ぶ）
-},
+<svg xmlns="https://photos.app.goo.gl/YaFteyKSwPGXCRq6A" width="800" height="640" viewBox="0 0 800 640" role="img" aria-label="人工授粉">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf6d6"/><stop offset="1" stop-color="#cfe8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="640" fill="url(#bg)"/>
+  <circle cx="680" cy="110" r="46" fill="#ffe08a"/><g stroke="#ffe08a" stroke-width="6" stroke-linecap="round">
+  <line x1="680" y1="30" x2="680" y2="10"/><line x1="756" y1="110" x2="778" y2="110"/><line x1="734" y1="56" x2="750" y2="40"/></g><rect x="0" y="520" width="800" height="120" fill="#7a5a3c"/><rect x="0" y="520" width="800" height="16" fill="#8a6a48"/><path d="M 60 520 Q 200 480 360 520 T 740 510" fill="none" stroke="#4e8b3a" stroke-width="8"/><path d="M 90 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 210 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 330 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 450 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 570 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><path d="M 690 512 q -26 -34 8 -48 q 30 12 -8 48" fill="#6fae44"/><ellipse cx="400" cy="470" rx="120" ry="110.4" fill="#bcd98a"/><path d="M 280 434 Q 400 420 520 434" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 280 446 Q 400 432 520 446" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 280 458 Q 400 444 520 458" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 280 470 Q 400 456 520 470" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 280 482 Q 400 468 520 482" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 280 494 Q 400 480 520 494" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 280 506 Q 400 492 520 506" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 358 350 Q 372 470 358 590" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 372 350 Q 386 470 372 590" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 386 350 Q 400 470 386 590" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 400 350 Q 414 470 400 590" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 414 350 Q 428 470 414 590" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 428 350 Q 442 470 428 590" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 442 350 Q 456 470 442 590" fill="none" stroke="rgba(90,120,60,.5)" stroke-width="3"/><path d="M 400 350 q -6 -22 6 -34" fill="none" stroke="#5a7a35" stroke-width="7" stroke-linecap="round"/>
+  <g font-family="'M PLUS Rounded 1c','Hiragino Maru Gothic ProN',sans-serif">
+    <rect x="24" y="570" width="752" height="46" rx="14" fill="rgba(255,255,255,.82)"/>
+    <text x="46" y="600" font-size="24" font-weight="800" fill="#2f5e2f">人工授粉</text>
+  </g>
+</svg>
