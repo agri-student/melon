@@ -75,6 +75,11 @@ const GALLERY_PHOTOS = [
     caption: "念願の収穫",
     category: "harvest",
   },
+　 {
+    src: "images/tyousa01.JPG",
+    caption: "計量中",
+    category: "harvest",
+  },
   {
     src: "images/sisyoku01.JPG",
     caption: "メロン、いただきます！",
