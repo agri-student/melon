@@ -36,7 +36,7 @@ const GALLERY_PHOTOS = [
     category: "care",
   },
   {
-    src: "images/placeholder-flower.svg",
+    src: "images/zyuhun01",
     caption: "黄色い花が咲きました。受粉のお手伝い",
     category: "grow",
   },
