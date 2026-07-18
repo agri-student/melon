@@ -31,7 +31,7 @@ const GALLERY_PHOTOS = [
     category: "care",
   },
   {
-    src: "images/tuihi00.JPG",
+    src: "images/tuihi00.jpg",
     caption: "根の張りをよくするため、化成肥料を施肥",
     category: "care",
   },
