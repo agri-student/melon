@@ -45,29 +45,39 @@ const GALLERY_PHOTOS = [
     caption: "もやい結び、難しい...",
     category: "care",
   },
+　{
+    src: "images/yuuin02.JPG",
+    caption: "ぐんぐん成長中",
+    category: "care",
+  },
   {
-    src: "images/zyuhun01",
+    src: "images/zyuhun01.JPG",
     caption: "黄色い花が咲きました。受粉のお手伝い",
     category: "grow",
   },
   {
-    src: "images/placeholder-young.svg",
-    caption: "小さな実がふくらみはじめました",
+    src: "images/zyuhun02.JPG",
+    caption: "朝７時半に来て人工授粉中",
     category: "grow",
   },
-  {
-    src: "images/placeholder-net.svg",
-    caption: "きれいな網目が入ってきた！",
-    category: "grow",
+　{
+    src: "images/hukuro01.JPG",
+    caption: "日焼け防止のため、新聞紙をかける",
+    category: "care",
+  },
+　{
+    src: "images/tamaturi01.JPG",
+    caption: "きれいなT字になるように調整中",
+    category: "care",
   },
   {
-    src: "images/placeholder-harvest.svg",
-    caption: "いよいよ収穫。ずっしり重いメロン",
+    src: "images/syuukaku01.JPG",
+    caption: "念願の収穫",
     category: "harvest",
   },
   {
-    src: "images/placeholder-taste.svg",
-    caption: "自分たちで育てたメロン、いただきます！",
+    src: "images/sisyoku01.JPG",
+    caption: "メロン、いただきます！",
     category: "harvest",
   },
 ];
