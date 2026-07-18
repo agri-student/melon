@@ -26,13 +26,13 @@ const GALLERY_PHOTOS = [
     category: "seed",
   },
   {
-    src: "images/placeholder-water.svg",
-    caption: "毎朝の水やりは大切な日課",
+    src: "images/seishi01.JPG",
+    caption: "病気予防のため、本葉下２枚を摘葉",
     category: "care",
   },
   {
-    src: "images/placeholder-prune.svg",
-    caption: "わき芽を摘んで、つるを整えます",
+    src: "images/tuihi00.JPG",
+    caption: "根の張りをよくするため、化成肥料を施肥",
     category: "care",
   },
   {
