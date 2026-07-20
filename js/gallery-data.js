@@ -89,7 +89,7 @@ const GALLERY_PHOTOS = [
 
 /* カテゴリ名を日本語ラベルに変換する対応表（ギャラリーのタグ表示に使用） */
 const CATEGORY_LABELS = {
-  seed: "種まき・苗",
+  seed: "定植",
   care: "お世話",
   grow: "実りの様子",
   harvest: "収穫・試食",
