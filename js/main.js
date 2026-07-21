@@ -140,7 +140,7 @@
 
   /* ---------- スクロール表示アニメ ---------- */
   const revealTargets = document.querySelectorAll(
-    ".about-card, .fact-card, .timeline-item, .voice-card, .gallery-hint"
+    ".about-card, .variety-card, .fact-card, .timeline-item, .voice-card"
   );
   revealTargets.forEach(function (el) { el.classList.add("reveal"); });
   if ("IntersectionObserver" in window) {

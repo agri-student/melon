@@ -118,6 +118,31 @@ a { color: inherit; text-decoration: none; }
 .about-card h3 { color: var(--rind-dark); font-size: 1.2rem; margin-bottom: 8px; }
 .about-card p { color: var(--ink-soft); font-size: .96rem; }
 
+/* ===== 育てた品種 ===== */
+.variety-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 26px; }
+.variety-card {
+  background: var(--white); border-radius: var(--radius-lg); padding: 30px 30px 26px;
+  box-shadow: var(--shadow); border-top: 6px solid var(--rind-light);
+  transition: transform .25s, box-shadow .25s;
+}
+.variety-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); }
+.variety-head { display: flex; align-items: center; gap: 14px; margin-bottom: 14px; }
+.variety-emoji {
+  font-size: 1.9rem; flex: 0 0 auto; width: 58px; height: 58px; border-radius: 50%;
+  display: grid; place-items: center; background: var(--flesh-cream);
+}
+.variety-head h3 { color: var(--rind-dark); font-size: 1.35rem; line-height: 1.3; }
+.variety-type { color: var(--cantaloupe); font-weight: 700; font-size: .85rem; margin-top: 2px; }
+.variety-lead { color: var(--ink); font-weight: 500; margin-bottom: 14px; }
+.variety-feature { list-style: none; margin-bottom: 18px; }
+.variety-feature li { position: relative; padding-left: 26px; color: var(--ink-soft); font-size: .96rem; margin-bottom: 8px; }
+.variety-feature li::before { content: "🍈"; position: absolute; left: 0; top: 0; font-size: .95rem; }
+.variety-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+.variety-tags span {
+  font-size: .8rem; font-weight: 700; color: var(--rind-dark);
+  background: var(--flesh-cream); padding: 5px 14px; border-radius: 999px;
+}
+
 /* ===== ギャラリー ===== */
 .filter-bar { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 34px; }
 .filter-btn {
