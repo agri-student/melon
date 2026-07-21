@@ -70,6 +70,16 @@ const GALLERY_PHOTOS = [
     caption: "きれいなT字になるように調整中",
     category: "care",
   },
+　　{
+    src: "images/tamaturi02.JPG",
+    caption: "きれいなT字になるように調整中",
+    category: "care",
+  },
+　　{
+    src: "images/tekikameron.JPG",
+    caption: "摘果したメロンはおいしくいただきました",
+    category: "care",
+  },
   {
     src: "images/syuukaku01.JPG",
     caption: "念願の収穫",
