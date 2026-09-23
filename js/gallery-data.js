@@ -110,6 +110,16 @@ const GALLERY_PHOTOS = [
     caption: "メロン、ありがとう",
     category: "harvest",
   },
+       {
+    src: "images/taihi01.JPG",
+    caption: "次に向けての準備",
+    category: "harvest",
+  },
+       {
+    src: "images/taihi02.JPG",
+    caption: "堆肥を投入",
+    category: "harvest",
+  },
 ];
 
 /* カテゴリ名を日本語ラベルに変換する対応表（ギャラリーのタグ表示に使用） */
