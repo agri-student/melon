@@ -11,7 +11,7 @@
      "seed"    … 種まき・苗
      "care"    … 日々のお世話
      "grow"    … 実りの様子
-     "harvest" … 収穫・試食
+     "harvest" … 収穫・試食・撤去
    ========================================================= */
 
 const GALLERY_PHOTOS = [
@@ -93,6 +93,21 @@ const GALLERY_PHOTOS = [
   {
     src: "images/sisyoku01.JPG",
     caption: "メロン、いただきます！",
+    category: "harvest",
+  },
+   {
+    src: "images/tekkyo1.JPG",
+    caption: "メロン、ありがとう",
+    category: "harvest",
+  },
+    {
+    src: "images/tekkyo2.JPG",
+    caption: "メロン、ありがとう",
+    category: "harvest",
+  },
+    {
+    src: "images/tekkyo3.JPG",
+    caption: "メロン、ありがとう",
     category: "harvest",
   },
 ];
